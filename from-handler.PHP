@@ -4,7 +4,7 @@
  $subject= $_POST['subject'];
  $message= $_POST['message'];
 
- $email_from = 'info@EMCMMELIHI.org';
+ $email_from = 'info@emcm2023.github.io';
  $email_subject = 'Nouvelle soumission de formulaire';
  $email_body = "utilisateur name : $name.\n".
                "utilisateur Email : $visitor_email.\n".
